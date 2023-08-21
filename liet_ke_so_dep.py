@@ -13,7 +13,3 @@ for i in range(int(input())):
         if check(str(j)):
             print(j,end=' ')
     print()
-
-
-
-        
