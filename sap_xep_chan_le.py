@@ -1,5 +1,9 @@
 n = int(input())
-l = list(map(int, input().split()))
+l=[]
+while True :
+    x = [int(x) for x in input().split()]
+    l += x
+    if len(l) == n : break
 chan = []
 le = []
 for i in range(n):

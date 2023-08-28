@@ -1,0 +1,1 @@
+{"name":"Local: ICPC0108","url":"c:\\Users\\84395\\Documents\\GitHub\\Python-PTIT\\ICPC0108.py","tests":[{"id":1693108063337,"input":"2\n5\n0 -1 2 -3 1 \n5\n1 -2  1  0  5","output":"[-3, -1, 0, 1, 2]\n[-2, 0, 1, 1, 5]"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\84395\\Documents\\GitHub\\Python-PTIT\\ICPC0108.py","group":"local","local":true}
