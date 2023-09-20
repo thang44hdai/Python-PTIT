@@ -1,0 +1,1 @@
+{"name":"Local: PY01059","url":"/Users/thangnq/Documents/GitHub/Python-PTIT/PY01059.py","tests":[{"id":1695205860016,"input":"3\n12345678\n20000\n22334455667788","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/thangnq/Documents/GitHub/Python-PTIT/PY01059.py","group":"local","local":true}

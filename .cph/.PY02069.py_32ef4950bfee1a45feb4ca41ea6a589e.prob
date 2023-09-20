@@ -1,0 +1,1 @@
+{"name":"Local: PY02069","url":"/Users/thangnq/Documents/GitHub/Python-PTIT/PY02069.py","tests":[{"id":1693361368039,"input":"6 4\n23 21 77 10\n13 13 22 14\n28 29 28 23\n29 77 11 19\n16 26 24 21\n13 25 77 77","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/thangnq/Documents/GitHub/Python-PTIT/PY02069.py","group":"local","local":true}
