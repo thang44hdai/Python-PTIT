@@ -1,0 +1,1 @@
+{"name":"Local: PYKT039","url":"c:\\Users\\84395\\Documents\\GitHub\\Python-PTIT\\PYKT039.py","tests":[{"id":1696641598690,"input":"2\n4\n7 5 3 2\n5 4 8 7\n8\n7 5 3 2 5 105 45 10\n2 4 0 5 6 9 75 84 ","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\84395\\Documents\\GitHub\\Python-PTIT\\PYKT039.py","group":"local","local":true}

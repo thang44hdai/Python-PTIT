@@ -16,7 +16,6 @@ def mul(a, b):
     r.y = (a.x*b.y + a.y*b.x) % mod
     return r
 
-
 def pow(a, b):
     if b == 0:
         return pair(1, 0)
