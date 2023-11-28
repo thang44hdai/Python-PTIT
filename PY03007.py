@@ -1,25 +1,12 @@
-
-s = ''
-regex = '\\.\\!\\?'
+import re
+doc = ''
 while True:
-    try:
-        s += input()
-    except EOFError:
-        break
-
-l = s.split()
-check = 0
-for i in l:
-    if check == 0:
-        if i[-1] == "." or i[-1] == "?" or i[-1] == "!":
-            print(i[:len(i)-1].title())
-        else:
-            print(i.title(), end=" ")
-            check = 1
-    else:
-        if i[-1] == "." or i[-1] == "?" or i[-1] == "!":
-            check = 0
-            print(i[:len(i)-1].lower())
-        else:
-            print(i.lower(), end=" ")
-            check = 1
+    try: doc += input()
+    except: break
+sentences = re.split('[.?!]', doc)
+for sen in sentences:
+    if len(sen) == 0: continue
+    sen = sen.lower().split()
+    sen[0] = sen[0][:1].upper() + sen[0][1:]
+    sen = ' '.join(sen)
+    print(sen)
