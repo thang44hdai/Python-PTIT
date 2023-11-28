@@ -1,0 +1,1 @@
+{"name":"Local: PY03006","url":"e:\\Github\\Python-PTIT\\PY03006.py","tests":[{"id":1701165952286,"input":"3\na1a\nddd\nddd","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Github\\Python-PTIT\\PY03006.py","group":"local","local":true}
