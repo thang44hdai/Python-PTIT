@@ -1,0 +1,1 @@
+{"name":"Local: PY02010","url":"e:\\Github\\Python-PTIT\\PY02010.py","tests":[{"id":1701228528835,"input":"5\n1\n2\n3\n4\n5\n3\n001\n22\n33333333333333333333333333333333333\n3\n1\n1\n1\n0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Github\\Python-PTIT\\PY02010.py","group":"local","local":true}
