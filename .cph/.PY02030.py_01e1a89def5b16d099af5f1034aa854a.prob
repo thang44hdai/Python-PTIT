@@ -1,0 +1,1 @@
+{"name":"Local: PY02030","url":"e:\\Github\\Python-PTIT\\PY02030.py","tests":[{"id":1701252932753,"input":"10\n3 6 7 3 5 7 3 6 6 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Github\\Python-PTIT\\PY02030.py","group":"local","local":true}
